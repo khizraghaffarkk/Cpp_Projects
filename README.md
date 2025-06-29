@@ -75,6 +75,7 @@ Description: clear sky
 ```
 
 ## 🧱 File Structure
+```text
 weather_app/
 │
 ├── include/
@@ -87,11 +88,10 @@ weather_app/
 ├── requirements.txt          # System package dependencies
 ├── CMakeLists.txt            # CMake build instructions
 └── README.md                 # You're reading this!
-
+```
 ## 📚 Dependencies
 - nlohmann::json – included as json.hpp
-
-libcurl – installed via your system package manager
+- libcurl – installed via your system package manager
 
 
 
