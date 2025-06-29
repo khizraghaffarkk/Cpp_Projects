@@ -30,6 +30,7 @@ On Ubuntu/Debian-based systems:
 
 ```bash
 xargs -a requirements.txt sudo apt install -y
+```
 
 ## 🔑 Get Your Free Weather API Key
 
@@ -52,6 +53,7 @@ If you're downloading this project from GitHub:
 ```bash
 git clone https://github.com/yourusername/weather_app_cpp.git
 cd weather_app_cpp
+```
 
 ### 🚀 Run the App
 
@@ -59,6 +61,7 @@ From the `build/` folder:
 
 ```bash
 ./weather_app
+```
 
 Then enter a city name, for example:
 
